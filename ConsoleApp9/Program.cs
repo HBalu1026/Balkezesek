@@ -9,9 +9,16 @@ namespace ConsoleApp9
 {
     internal class Program
     {
+        public static string Mittomen(string bemenet)
+        {
+            string kimenet = "";
+            return kimenet;
+        }
+
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
